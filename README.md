@@ -20,6 +20,8 @@ It demonstrates professional front-end development practices, clean responsive l
 This project is a **Figma to Code conversion**, ensuring pixel-perfect alignment with the original design.  
 It’s developed using **HTML**, **CSS**, and **Vanilla JavaScript**, with reusable components and responsive UI principles.
 
+🎨 **Figma Design:** [View on Figma](https://www.figma.com/design/tG7GQGrvBganMrf2plTftR/Lush-Garden---Florist-Website--Community-?node-id=301-1587&t=PIUdDoZXpjMtHE8j-0)
+
 ---
 
 ## ✨ Features  
